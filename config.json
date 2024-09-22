@@ -1,0 +1,114 @@
+{
+  "vouchPrefix": "+",
+  "negVouchPrefix": "-v",
+  "mainPrefix": ".",
+  "helpPrefix": "=",
+  "extremePrefix": "e.",
+  "basicPrefix": "b.",
+  "freePrefix": "f.",
+  "boostPrefix": "bs.",
+  "premiumPrefix": "p.",
+  "cookiePrefix": "c.",
+  "genChannel": "1263101703314739200",
+  "genCooldown": 1,
+  "fgenChannel": "1263101317035855893",
+  "fgenCooldown": 1,
+  "bgenChannel": "1269252753520070727",
+  "bgenCooldown": 1,
+  "basichannelid": "1263101432274354267",
+  "egenChannel": "1263102269344452618",
+  "egenCooldownHours": 24,
+  "providorRole": "1263910097822683246",
+  "extremechannelId": "1263125105714794648",
+  "cgenChannel": "1263101886702293053",
+  "gif": "https://media.discordapp.net/attachments/1188677532426457118/1197818799597031518/350kb.gif?ex=65d85630&is=65c5e130&hm=4bfa1ac6cd8ccc667c95ea05ac82afaac35ba96c645af4a4dd914def18d84cc0&width=585&height=75&",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2",
+    "blue": "#ADD8E6"
+  },
+  "token": "MTIxNTk4NjUzMzczNjM4MjY0NA.GCrR40.5rqrKvvqZYBkIfXjY5PyZIsFxB2Hkb2MVx4zak",
+  "adminUserIds": [
+    "1263131678965104651",
+    "1263131769322868746"
+  ],
+  "command": {
+    "notfound_message": false,
+    "error_message": true
+  },
+  "restockroleid": "1263154136204185761",
+  "specifiedRoleIds": [
+    "1263131220590727228",
+    "1263131315516211210",
+    "1263131394649886780",
+    "1263131462815977583",
+    "1263131556822646866",
+    "1263131678965104651",
+    "1263131769322868746",
+    "1262935543335882812"
+  ],
+  "promotionChannelId": "1263122982520356957",
+  "staffRoleIds": [
+    "1263131220590727228",
+    "1263131315516211210",
+    "1263131394649886780",
+    "1263131462815977583",
+    "1263131556822646866",
+    "1263131678965104651",
+    "1263131769322868746",
+    "1262935543335882812"
+  ],
+  "cookiesendroles": [
+    "1263131315516211210",
+    "1263131394649886780",
+    "1263131462815977583",
+    "1263131556822646866",
+    "1263131678965104651",
+    "1263131769322868746",
+    "1262935543335882812"
+  ],
+  "purgeroleids": [
+    "1263131769322868746",
+    "1262935543335882812"
+  ],
+  "nukeroleids": [
+    "1263131769322868746",
+    "1262935543335882812"
+  ],
+  "stockid": "1263101171959070751",
+  "dropChannelId": "1263099820923555911",
+  "vouchChannelId": "1263099567424012288",
+  "logsChannelId": "1263124842488533053",
+  "autoRoleTiers": [
+    {
+      "threshold": 20,
+      "roleID": "1263131315516211210"
+    },
+    {
+      "threshold": 60,
+      "roleID": "1263131394649886780"
+    },
+    {
+      "threshold": 100,
+      "roleID": "1263131462815977583"
+    }
+  ],
+  "dropSessionActive": false,
+  "refreshRoleIds": [
+    "1263131315516211210",
+    "1263131220590727228"
+  ],
+  "inactiveAcceptRoleId": "1273860638044848148",
+  "inactiveChannelId": "1263124627773980702",
+  "giveawayChannelIds": [
+    "1263121529420648491",
+    "1263121690393841747",
+    "1263121765031350415",
+    "1263121916571553862"
+  ],
+  "maxGiveawaysPerDay": 5,
+  "guildId": "1262581435177373777",
+  "memberRoleId": "1263126342010933388"
+}
